@@ -1,2 +1,0 @@
-# primo
-Created with CodeSandbox
