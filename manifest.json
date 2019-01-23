@@ -1,0 +1,8 @@
+{
+  "name": "Prosemirror Test",
+  "theme_color": "#0c426c",
+  "background_color": "#6196c1",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
