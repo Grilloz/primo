@@ -1,0 +1,21 @@
+{
+  "name": "Prosemirror Test",
+  "theme_color": "#0c426c",
+  "background_color": "#6196c1",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+    "icons": [{
+      "src": "img/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+        "src": "img/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+        "src": "img/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }]
+}
