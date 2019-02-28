@@ -3,12 +3,8 @@
   "name": "Prova",
   "builds": [
     {
-      "src": "*.js",
-      "use": "@now/node"
-    },
-    {
-      "src": "*.html",
-      "use": "@now/static"
+      "src": "package.json",
+      "use": "@now/static-build"
     }
   ]
 }
